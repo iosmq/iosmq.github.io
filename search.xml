@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>post-name</title>
+    <url>/post-name.html</url>
+    <content><![CDATA[<p>123</p>
+<font color='red'>456</font>
+
+<h2 id="789"><a href="#789" class="headerlink" title="789"></a><font color='green'>789</font></h2><h4 id="卫栖梧人情味若"><a href="#卫栖梧人情味若" class="headerlink" title="卫栖梧人情味若"></a><font color='purple'>卫栖梧人情味若</font></h4><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</ul>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>标签</tag>
+      </tags>
+  </entry>
+</search>
