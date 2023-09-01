@@ -1,17 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>下载页面</title>
-    <url>/chenmen.html</url>
-    <content><![CDATA[<h2 id="双端下载页面介绍"><a href="#双端下载页面介绍" class="headerlink" title="双端下载页面介绍"></a>双端下载页面介绍</h2><h3 id="1、带后台下载页面"><a href="#1、带后台下载页面" class="headerlink" title="1、带后台下载页面"></a><font color='purple'>1、带后台下载页面</font></h3><h3 id="2、不带后台下载页面"><a href="#2、不带后台下载页面" class="headerlink" title="2、不带后台下载页面"></a><font color='red'>2、不带后台下载页面</font></h3><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-</ul>
-</blockquote>
+    <title>中文版本</title>
+    <url>/xiazaiye.html</url>
+    <content><![CDATA[<h3 id="安卓-苹果双端下载页面（中文版本）"><a href="#安卓-苹果双端下载页面（中文版本）" class="headerlink" title="安卓+苹果双端下载页面（中文版本）"></a><font color='red'>安卓+苹果双端下载页面（中文版本）</font></h3><h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>1、支持安卓apk，苹果免签，苹果企业签对接使用</p>
+<p>2、带自动跳转到设置页面，无需用户手动设置信任</p>
+<p>3、不限次数，不限类型使用次下载页面</p>
+<p>4、不绑定IP，不绑定域名，无任何加密授权</p>
+<p>5、源码完全开源，支持随意二开定制功能</p>
+<p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p>
+<p>（需要更多版本，请联系本站客服翻译即可使用）</p>
+<p><img src="https://s2.loli.net/2023/09/01/AjJbPC37NRkavyI.jpg" style="zoom:50%;" /></p>
 ]]></content>
-      <tags>
-        <tag>down</tag>
-      </tags>
+      <categories>
+        <category>下载页面</category>
+        <category>普通下载页</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>英文版本</title>
+    <url>/xiazaiyegjyw.html</url>
+    <content><![CDATA[<h3 id="安卓-苹果双端下载页面（英文版本）"><a href="#安卓-苹果双端下载页面（英文版本）" class="headerlink" title="安卓+苹果双端下载页面（英文版本）"></a><font color='red'>安卓+苹果双端下载页面（英文版本）</font></h3><h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>1、支持安卓apk，苹果免签，苹果企业签对接使用</p>
+<p>2、带自动跳转到设置页面，无需用户手动设置信任</p>
+<p>3、不限次数，不限类型使用次下载页面</p>
+<p>4、不绑定IP，不绑定域名，无任何加密授权</p>
+<p>5、源码完全开源，支持随意二开定制功能</p>
+<p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p>
+<p>（需要更多版本，请联系本站客服翻译即可使用）</p>
+<p><img src="https://s2.loli.net/2023/09/01/QiJeMFqjVK7UwDN.png" style="zoom: 80%;" /></p>
+]]></content>
+      <categories>
+        <category>下载页面</category>
+        <category>普通下载页</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>中文版本</title>
+    <url>/xiazaiyegjzw.html</url>
+    <content><![CDATA[<h3 id="安卓-苹果双端下载页面（英文版本）"><a href="#安卓-苹果双端下载页面（英文版本）" class="headerlink" title="安卓+苹果双端下载页面（英文版本）"></a><font color='red'>安卓+苹果双端下载页面（英文版本）</font></h3><h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>特别功能：<br>支持对语言切换<br>支持轮播图展示<br>支持统计功能<br>1、支持安卓apk，苹果免签，苹果企业签对接使用</p>
+<p>2、带自动跳转到设置页面，无需用户手动设置信任</p>
+<p>3、不限次数，不限类型使用次下载页面</p>
+<p>4、不绑定IP，不绑定域名，无任何加密授权</p>
+<p>5、源码完全开源，支持随意二开定制功能</p>
+<p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p>
+<p>（需要更多版本，请联系本站客服翻译即可使用）</p>
+]]></content>
+      <categories>
+        <category>下载页面</category>
+        <category>高级下载页</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>英文版本</title>
+    <url>/xiazaiyeyw.html</url>
+    <content><![CDATA[<h3 id="安卓-苹果双端下载页面（英文版本）"><a href="#安卓-苹果双端下载页面（英文版本）" class="headerlink" title="安卓+苹果双端下载页面（英文版本）"></a><font color='red'>安卓+苹果双端下载页面（英文版本）</font></h3><h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>1、支持安卓apk，苹果免签，苹果企业签对接使用</p>
+<p>2、带自动跳转到设置页面，无需用户手动设置信任</p>
+<p>3、不限次数，不限类型使用次下载页面</p>
+<p>4、不绑定IP，不绑定域名，无任何加密授权</p>
+<p>5、源码完全开源，支持随意二开定制功能</p>
+<p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p>
+<p>（需要更多版本，请联系本站客服翻译即可使用）</p>
+<p><img src="https://s2.loli.net/2023/09/01/QiJeMFqjVK7UwDN.png" style="zoom: 80%;" /></p>
+]]></content>
+      <categories>
+        <category>下载页面</category>
+        <category>普通下载页</category>
+      </categories>
   </entry>
 </search>

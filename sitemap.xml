@@ -4,7 +4,7 @@
 
     <sitemap>
         <loc>https://iosmq.github.io/post-sitemap.xml</loc>
-        <lastmod>2023-09-01T00:54:34.882Z</lastmod>
+        <lastmod>2023-09-01T09:00:53.957Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,8 +13,8 @@
     </sitemap>
 
     <sitemap>
-        <loc>https://iosmq.github.io/tag-sitemap.xml</loc>
-        <lastmod>2023-09-01T00:54:34.882Z</lastmod>
+        <loc>https://iosmq.github.io/category-sitemap.xml</loc>
+        <lastmod>2023-09-01T09:00:53.957Z</lastmod>
     </sitemap>
 
 </sitemapindex>
