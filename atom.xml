@@ -6,7 +6,7 @@
   <link href="https://iosmq.github.io/atom.xml" rel="self"/>
   
   <link href="https://iosmq.github.io/"/>
-  <updated>2023-09-01T16:49:41.638Z</updated>
+  <updated>2023-09-03T04:42:22.400Z</updated>
   <id>https://iosmq.github.io/</id>
   
   <author>
@@ -17,99 +17,168 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>中文版本</title>
-    <link href="https://iosmq.github.io/xiazaiye.html"/>
-    <id>https://iosmq.github.io/xiazaiye.html</id>
-    <published>2023-09-01T08:28:40.000Z</published>
-    <updated>2023-09-01T16:49:41.638Z</updated>
-    
-    <content type="html"><![CDATA[<p>演示地址：<a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></p><p>1、支持安卓apk，苹果免签，苹果企业签对接使用</p><p>2、带自动跳转到设置页面，无需用户手动设置信任</p><p>3、不限次数，不限类型使用次下载页面</p><p>4、不绑定IP，不绑定域名，无任何加密授权</p><p>5、源码完全开源，支持随意二开定制功能</p><p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p><p>（需要更多版本，请联系本站客服翻译即可使用）</p><iframe class="bilibili" style="display:block; margin: auto;"  src="//player.bilibili.com/player.html?aid=470027431&bvid=BV1VT411G7Ys&cid=748644315&page=1" allowfullscreen=" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>==================================</p><iframe class="bilibili" style="display:block; margin: auto;"  src="https://player.bilibili.com/player.html?bvid=BV1iZ4y1w7kX&page=1&high_quality=1&danmaku=true" allowfullscreen=" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p><img src="https://s2.loli.net/2023/09/01/AjJbPC37NRkavyI.jpg" style="zoom:50%;" /></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;演示地址：&lt;a href=&quot;https://iosmq.gitee.io/wmh/&quot;&gt;https://iosmq.gitee.io/wmh/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1、支持安卓apk，苹果免签，苹果企业签对接使用&lt;/p&gt;
-&lt;p&gt;2、带自动跳转到设置页面，无需用户手动设置信任</summary>
-      
+    <title>gugebaohu</title>
+    <link href="https://iosmq.github.io/gugebaohu.html"/>
+    <id>https://iosmq.github.io/gugebaohu.html</id>
+    <published>2023-09-03T04:38:24.000Z</published>
+    <updated>2023-09-03T04:42:22.400Z</updated>
     
     
     
-    <category term="下载页面" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/"/>
     
-    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
+    <category term="谷歌保护" scheme="https://iosmq.github.io/categories/%E8%B0%B7%E6%AD%8C%E4%BF%9D%E6%8A%A4/"/>
+    
+    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E8%B0%B7%E6%AD%8C%E4%BF%9D%E6%8A%A4/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
     
     
   </entry>
   
   <entry>
-    <title>英文版本</title>
-    <link href="https://iosmq.github.io/xiazaiyeyw.html"/>
-    <id>https://iosmq.github.io/xiazaiyeyw.html</id>
-    <published>2023-09-01T08:28:40.000Z</published>
-    <updated>2023-09-01T09:41:29.907Z</updated>
-    
-    <content type="html"><![CDATA[<h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>1、支持安卓apk，苹果免签，苹果企业签对接使用</p><p>2、带自动跳转到设置页面，无需用户手动设置信任</p><p>3、不限次数，不限类型使用次下载页面</p><p>4、不绑定IP，不绑定域名，无任何加密授权</p><p>5、源码完全开源，支持随意二开定制功能</p><p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p><p>（需要更多版本，请联系本站客服翻译即可使用）</p><p><img src="https://s2.loli.net/2023/09/01/QiJeMFqjVK7UwDN.png" style="zoom: 80%;" /></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h5 id=&quot;演示地址：https-iosmq-gitee-io-wmh&quot;&gt;&lt;a href=&quot;#演示地址：https-iosmq-gitee-io-wmh&quot; class=&quot;headerlink&quot; title=&quot;演示地址：https://iosmq.gitee.io/wmh/&quot;&gt;</summary>
-      
+    <title>baodu</title>
+    <link href="https://iosmq.github.io/baodu.html"/>
+    <id>https://iosmq.github.io/baodu.html</id>
+    <published>2023-09-03T04:37:55.000Z</published>
+    <updated>2023-09-03T04:43:08.143Z</updated>
     
     
     
-    <category term="下载页面" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/"/>
     
-    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
+    <category term="报毒业务" scheme="https://iosmq.github.io/categories/%E6%8A%A5%E6%AF%92%E4%B8%9A%E5%8A%A1/"/>
+    
+    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E6%8A%A5%E6%AF%92%E4%B8%9A%E5%8A%A1/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
     
     
   </entry>
   
   <entry>
-    <title>中文版本</title>
-    <link href="https://iosmq.github.io/xiazaiyegjzw.html"/>
-    <id>https://iosmq.github.io/xiazaiyegjzw.html</id>
-    <published>2023-09-01T08:28:40.000Z</published>
-    <updated>2023-09-01T09:41:22.423Z</updated>
+    <title>fengzhuang</title>
+    <link href="https://iosmq.github.io/fengzhuang.html"/>
+    <id>https://iosmq.github.io/fengzhuang.html</id>
+    <published>2023-09-03T04:37:34.000Z</published>
+    <updated>2023-09-03T04:41:22.175Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>特别功能：<br>支持对语言切换<br>支持轮播图展示<br>支持统计功能<br>1、支持安卓apk，苹果免签，苹果企业签对接使用</p><p>2、带自动跳转到设置页面，无需用户手动设置信任</p><p>3、不限次数，不限类型使用次下载页面</p><p>4、不绑定IP，不绑定域名，无任何加密授权</p><p>5、源码完全开源，支持随意二开定制功能</p><p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p><p>（需要更多版本，请联系本站客服翻译即可使用）</p>]]></content>
+    <content type="html"><![CDATA[<p>封装业务</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h5 id=&quot;演示地址：https-iosmq-gitee-io-wmh&quot;&gt;&lt;a href=&quot;#演示地址：https-iosmq-gitee-io-wmh&quot; class=&quot;headerlink&quot; title=&quot;演示地址：https://iosmq.gitee.io/wmh/&quot;&gt;</summary>
+    <summary type="html">&lt;p&gt;封装业务&lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="下载页面" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/"/>
+    <category term="封装业务" scheme="https://iosmq.github.io/categories/%E5%B0%81%E8%A3%85%E4%B8%9A%E5%8A%A1/"/>
     
-    <category term="高级下载页" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/%E9%AB%98%E7%BA%A7%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
+    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E5%B0%81%E8%A3%85%E4%B8%9A%E5%8A%A1/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
     
     
   </entry>
   
   <entry>
-    <title>英文版本</title>
-    <link href="https://iosmq.github.io/xiazaiyegjyw.html"/>
-    <id>https://iosmq.github.io/xiazaiyegjyw.html</id>
-    <published>2023-09-01T08:28:40.000Z</published>
-    <updated>2023-09-01T09:41:37.938Z</updated>
+    <title>yuanma</title>
+    <link href="https://iosmq.github.io/yuanma.html"/>
+    <id>https://iosmq.github.io/yuanma.html</id>
+    <published>2023-09-03T04:37:22.000Z</published>
+    <updated>2023-09-03T04:44:24.775Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="演示地址：https-iosmq-gitee-io-wmh"><a href="#演示地址：https-iosmq-gitee-io-wmh" class="headerlink" title="演示地址：https://iosmq.gitee.io/wmh/"></a><font color='green'>演示地址：</font><a href="https://iosmq.gitee.io/wmh/">https://iosmq.gitee.io/wmh/</a></h5><p>1、支持安卓apk，苹果免签，苹果企业签对接使用</p><p>2、带自动跳转到设置页面，无需用户手动设置信任</p><p>3、不限次数，不限类型使用次下载页面</p><p>4、不绑定IP，不绑定域名，无任何加密授权</p><p>5、源码完全开源，支持随意二开定制功能</p><p>6、源码可以改多个语言版本，目前演示有中文版本和英文版本</p><p>（需要更多版本，请联系本站客服翻译即可使用）</p><p><img src="https://s2.loli.net/2023/09/01/QiJeMFqjVK7UwDN.png" style="zoom: 80%;" /></p>]]></content>
+    <content type="html"><![CDATA[<p>源码业务</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h5 id=&quot;演示地址：https-iosmq-gitee-io-wmh&quot;&gt;&lt;a href=&quot;#演示地址：https-iosmq-gitee-io-wmh&quot; class=&quot;headerlink&quot; title=&quot;演示地址：https://iosmq.gitee.io/wmh/&quot;&gt;</summary>
+    <summary type="html">&lt;p&gt;源码业务&lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="下载页面" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/"/>
+    <category term="源码业务" scheme="https://iosmq.github.io/categories/%E6%BA%90%E7%A0%81%E4%B8%9A%E5%8A%A1/"/>
     
-    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E4%B8%8B%E8%BD%BD%E9%A1%B5%E9%9D%A2/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
+    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E6%BA%90%E7%A0%81%E4%B8%9A%E5%8A%A1/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>谷歌上架介绍</title>
+    <link href="https://iosmq.github.io/shangjia.html"/>
+    <id>https://iosmq.github.io/shangjia.html</id>
+    <published>2023-09-03T04:37:11.000Z</published>
+    <updated>2023-09-03T05:59:44.618Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s2.loli.net/2023/09/03/7ZOQtBPRKbIwYu8.jpg" style="zoom:40%;" /></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2023/09/03/7ZOQtBPRKbIwYu8.jpg&quot; style=&quot;zoom:40%;&quot; /&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="上架业务" scheme="https://iosmq.github.io/categories/%E4%B8%8A%E6%9E%B6%E4%B8%9A%E5%8A%A1/"/>
+    
+    <category term="谷歌上架" scheme="https://iosmq.github.io/categories/%E4%B8%8A%E6%9E%B6%E4%B8%9A%E5%8A%A1/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E6%9E%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>苹果上架</title>
+    <link href="https://iosmq.github.io/shangjiapg.html"/>
+    <id>https://iosmq.github.io/shangjiapg.html</id>
+    <published>2023-09-03T04:37:11.000Z</published>
+    <updated>2023-09-03T05:29:58.499Z</updated>
+    
+    <content type="html"><![CDATA[<p>苹果上架采用马甲包上架方式</p><p>承接H5类网站上架苹果上传</p><p>价格如下：</p><div class="table-container"><table><thead><tr><th>上架类型</th><th>是否包含开发者</th><th>备注说明</th><th>价格</th></tr></thead><tbody><tr><td>H5类型</td><td>是</td><td></td><td>1W</td></tr><tr><td>H5类型</td><td>否</td><td></td><td>8000</td></tr><tr><td></td><td></td><td></td></tr></tbody></table></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;苹果上架采用马甲包上架方式&lt;/p&gt;
+&lt;p&gt;承接H5类网站上架苹果上传&lt;/p&gt;
+&lt;p&gt;价格如下：&lt;/p&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;上架类型&lt;/th&gt;
+&lt;th&gt;是否包含开发者&lt;/th&gt;
+&lt;th</summary>
+      
+    
+    
+    
+    <category term="上架业务" scheme="https://iosmq.github.io/categories/%E4%B8%8A%E6%9E%B6%E4%B8%9A%E5%8A%A1/"/>
+    
+    <category term="苹果上架" scheme="https://iosmq.github.io/categories/%E4%B8%8A%E6%9E%B6%E4%B8%9A%E5%8A%A1/%E8%8B%B9%E6%9E%9C%E4%B8%8A%E6%9E%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>qianming</title>
+    <link href="https://iosmq.github.io/qianming.html"/>
+    <id>https://iosmq.github.io/qianming.html</id>
+    <published>2023-09-01T04:58:52.000Z</published>
+    <updated>2023-09-03T05:04:57.731Z</updated>
+    
+    <content type="html"><![CDATA[<p>签名业务</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;签名业务&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="签名业务" scheme="https://iosmq.github.io/categories/%E7%AD%BE%E5%90%8D%E4%B8%9A%E5%8A%A1/"/>
+    
+    <category term="普通下载页" scheme="https://iosmq.github.io/categories/%E7%AD%BE%E5%90%8D%E4%B8%9A%E5%8A%A1/%E6%99%AE%E9%80%9A%E4%B8%8B%E8%BD%BD%E9%A1%B5/"/>
     
     
   </entry>
